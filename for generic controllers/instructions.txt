@@ -1,0 +1,9 @@
+this allows you to fake your controllers as xbox 360 controllers as required by ue4 by default
+
+place all the files in this directory in your ue 4.16 directory Engine/Binaries/Win64
+
+run x360ce_x64.exe
+
+go to the game settings tab
+
+select the UE4editor.exe and hit the start button. load up your project
