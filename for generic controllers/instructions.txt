@@ -6,4 +6,6 @@ run x360ce_x64.exe
 
 go to the game settings tab
 
-select the UE4editor.exe and hit the start button. load up your project
+click add and select UE4editor.exe
+
+then in x360ce, select the UE4editor.exe and hit the start button. load up your project
