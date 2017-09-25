@@ -15,7 +15,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "HoudiniEngine",
+			"Name": "FMODStudio",
 			"Enabled": true
 		}
 	]
