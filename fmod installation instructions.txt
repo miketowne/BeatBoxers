@@ -1,0 +1,11 @@
+due to how long it takes to build the project with fmod included
+here are the instructions to install it in your engine file
+
+go to https://www.fmod.com/
+make an account and sign in
+go to https://www.fmod.com/download
+click on integrations
+download the windows 4.16 file
+unzip the file
+place the FMODStudio folder in your engine plugins directory, such as:
+C:\Program Files (x86)\Epic Games\UE_4.16\Engine\Plugins
