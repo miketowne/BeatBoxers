@@ -11,7 +11,7 @@ bool UMyGameViewportClient::InputKey(FViewport* Viewport, int32 ControllerId, FK
 	if (bGamepad)
 	{
 		// Map the gamepad to the next player index (so 1st controller is player index 1, etc.)
-		return Super::InputKey(Viewport, ControllerId + 1, Key, EventType, AmountDepressed, bGamepad);
+		return Super::InputKey(Viewport, ControllerId, Key, EventType, AmountDepressed, bGamepad);
 	}
 	else
 	{
@@ -24,7 +24,7 @@ bool UMyGameViewportClient::InputAxis(FViewport* Viewport, int32 ControllerId, F
 	if (bGamepad)
 	{
 		// Map the gamepad to the next player index (so 1st controller is player index 1, etc.)
-		return Super::InputAxis(Viewport, ControllerId + 1, Key, Delta, DeltaTime, NumSamples, bGamepad);
+		return Super::InputAxis(Viewport, ControllerId, Key, Delta, DeltaTime, NumSamples, bGamepad);
 	}
 	else
 	{
