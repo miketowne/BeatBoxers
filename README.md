@@ -1,6 +1,6 @@
 # BeatBoxers
 
-A 2D fighting game in which music is much more than a cool track in the background - it's not just fighting to the music, its fighting with the beat and using it to your advantage. Play as a character inspired by musical genres in order win over the crowd and take the spotlight. In this one on one showcase of skill players prove which genre of music is superior.
+A 2D fighting game in which champions from the worlds best musical genres battle it out their quest to win over the crowd and steal the spotlight. It's not just fighting to the music, its fighting WITH the music and using it to crush your opponent. In this one on one contest of skill, players prove which genre of music regins supreme!!
 
 
 Here is the pintrest page for the character concepts: https://www.pinterest.com/jday93/beatboxer-character/
